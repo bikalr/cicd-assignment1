@@ -1,5 +1,5 @@
-# Assignment1-ToDoList-Backend
-## To Do List Project
+ # Assignment1-ToDoList-Backend
+## To  Do List Project
 This project just for assignment of my CICD class.
 I will follow the steps:
 I need to do screenshot for each step.
@@ -28,7 +28,7 @@ I need to do screenshot for each step.
 | 19 | Frontend | As a user, I want to filter tasks by their status so that I can focus on tasks at a specific stage.                                             | Low      |
 | 20 | Backend  | As a user, I want to filter tasks by their status so that I can focus on tasks at a specific stage.                                             | Low      |
 
-3. Assigning those issues to each repository.
+3. Assigning those issues to each  repository.
 4. Changing issues state from backlog to to-do.
 5. changing issues state from to-do to in progress.
 7. Start developing depended on each issue.
